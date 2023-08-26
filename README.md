@@ -1,2 +1,2 @@
 # Material
-Auther-Ajay Tripathi
+Auther-jay Tripathi
